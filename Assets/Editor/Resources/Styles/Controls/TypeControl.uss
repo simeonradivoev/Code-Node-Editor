@@ -1,0 +1,21 @@
+.Container {
+	flex-direction: row;
+	align-items: center;
+	padding-left: 8;
+}
+
+.warrning-field {
+	width: 8;
+	height: 8;
+	background-color: rgb(255,0,0);
+	border-radius: 4;
+}
+
+.valid {
+	background-color: rgb(137, 244, 66);
+}
+
+TextField {
+	flex-grow: 2;
+	min-width: 86;
+}
