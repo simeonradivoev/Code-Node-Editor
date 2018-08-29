@@ -19,11 +19,15 @@ namespace TestNamespace {
         
         private String testField = "Test Generation 5";
         
+public int Prop2 { get; private set; }
+        
         private void TestMethod(String testParameter) {
             Debug.Log(testParameter);
         }
         
         private void Start() {
+var time = DateTime.Now;
+Debug.Log("The Time is: " + time );
             TestMethod(testField);
         }
     }

@@ -142,6 +142,8 @@ namespace NodeEditor.Editor.Scripts
 				if (spaces.Length <= 0) return; 
 				if(spaces.Any(c => c.hasError)) return;
 
+				graphObject.graph.SortEdges();
+
 				CSharpCodeProvider provider = new CSharpCodeProvider();
 				CodeCompileUnit compileUnit = new CodeCompileUnit();
 				foreach (var space in spaces)

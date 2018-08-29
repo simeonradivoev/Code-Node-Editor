@@ -16,7 +16,9 @@ namespace NodeEditor.Nodes
 			m_ReturnType = CreateInputSlot<CodeTypeReferenceSlot>("returnType","ReturnType (ref)");
 			m_ReturnType.SetValue("System.Void");
 			m_Parameters = CreateInputSlot<EmptySlot<CodeParameterDeclarationExpression>>("parameters","Parameters (dec exp)");
+			m_Parameters.allowMultipleConnections = true;
 			m_Statements = CreateInputSlot<EmptySlot<CodeStatement>>("statements","Statements (stm)");
+			m_Statements.allowMultipleConnections = true;
 		}
 
 		protected override void Build(CodeMemberMethod method)

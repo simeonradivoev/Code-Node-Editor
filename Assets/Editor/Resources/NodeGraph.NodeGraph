@@ -20,31 +20,31 @@
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.Expressions.FieldReferenceExpressionNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"b298c9cd-8fe2-4705-89d1-6237eb23f304\",\"m_Name\":\"Field Reference\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-1179.47900390625,\"y\":1047.4979248046875,\"width\":191.0,\"height\":106.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeFieldReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1081251833,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1081251833,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_RefName\":\"testField\"}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"b298c9cd-8fe2-4705-89d1-6237eb23f304\",\"m_Name\":\"Field Reference\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-1166.47900390625,\"y\":1143.4979248046875,\"width\":191.0,\"height\":106.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeFieldReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1081251833,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1081251833,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_RefName\":\"testField\"}"
         },
         {
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.TypePropertyNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"f32625e9-f0b1-42f7-9c13-c5b224895754\",\"m_Name\":\"TypePropertyNode\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-172.50506591796876,\"y\":177.70626831054688,\"width\":153.0,\"height\":106.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeTypeReference, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1421151742,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1421151742,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_Type\":\"MonoBehaviour\"}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"f32625e9-f0b1-42f7-9c13-c5b224895754\",\"m_Name\":\"TypePropertyNode\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-144.50506591796876,\"y\":-5.25372314453125,\"width\":153.0,\"height\":106.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeTypeReference, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1421151742,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1421151742,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_Type\":\"MonoBehaviour\"}"
         },
         {
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.Expressions.MethodReferenceExpressionNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"5fcfb8b7-94ec-4094-8b65-901ea17e7b42\",\"m_Name\":\"Method Reference\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-1229.47900390625,\"y\":884.4979248046875,\"width\":254.0,\"height\":130.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMethodReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":165463247,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 165463247,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1081251833,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1081251833,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeTypeReference, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":91476738,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 91476738,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_RefName\":\"TestMethod\"}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"5fcfb8b7-94ec-4094-8b65-901ea17e7b42\",\"m_Name\":\"Method Reference\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-1216.47900390625,\"y\":980.4979248046875,\"width\":254.0,\"height\":130.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMethodReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":165463247,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 165463247,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":1081251833,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 1081251833,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeTypeReference, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":91476738,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 91476738,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_RefName\":\"TestMethod\"}"
         },
         {
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.Expressions.MethodInvokeExpressionNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\",\"m_Name\":\"Method Invoke\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-908.4791259765625,\"y\":900.4979248046875,\"width\":233.0,\"height\":101.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMethodInvokeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeMethodReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":165463247,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 165463247,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1929952168,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1929952168,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\",\"m_Name\":\"Method Invoke\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-895.4791259765625,\"y\":996.4979248046875,\"width\":213.0,\"height\":101.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMethodInvokeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeMethodReferenceExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":165463247,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 165463247,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1929952168,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1929952168,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true}"
         },
         {
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.MethodNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\",\"m_Name\":\"Method\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-379.7467346191406,\"y\":727.9527587890625,\"width\":193.0,\"height\":196.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMemberMethod, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.CodeTypeReferenceSlot\"},\"index\":-710244168,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -710244168,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_Value\\\": \\\"System.Void\\\"\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeParameterDeclarationExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":877801146,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 877801146,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeStatement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":257555148,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 257555148,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_MemberName\":\"Start\",\"m_Accecability\":20480,\"m_Static\":false}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\",\"m_Name\":\"Method\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-378.7467041015625,\"y\":727.9527587890625,\"width\":226.0,\"height\":196.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeMemberMethod, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.CodeTypeReferenceSlot\"},\"index\":-710244168,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -710244168,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false,\\n    \\\"m_Value\\\": \\\"System.Void\\\"\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeParameterDeclarationExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":877801146,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 877801146,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeStatement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":257555148,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": 257555148,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_MemberName\":\"Start\",\"m_Accecability\":20480,\"m_Static\":false}"
         },
         {
             "typeInfo": {
@@ -92,7 +92,7 @@
             "typeInfo": {
                 "fullName": "NodeEditor.Nodes.Statements.ExpressionStatementNode"
             },
-            "JSONnodeData": "{\"m_GuidSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\",\"m_Name\":\"Expression Statement\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-621.9967041015625,\"y\":837.0027465820313,\"width\":166.0,\"height\":77.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeExpressionStatement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-288964304,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -288964304,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true}"
+            "JSONnodeData": "{\"m_GuidSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\",\"m_Name\":\"Expression Statement\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-608.9967041015625,\"y\":933.0027465820313,\"width\":166.0,\"height\":77.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeExpressionStatement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"},{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.EmptySlot`1[[System.CodeDom.CodeExpression, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-288964304,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -288964304,\\n    \\\"m_SlotType\\\": 0,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true}"
         },
         {
             "typeInfo": {
@@ -129,6 +129,18 @@
                 "fullName": "NodeEditor.Nodes.NamespaceImportNode"
             },
             "JSONnodeData": "{\"m_GuidSerialized\":\"e5a4a8ce-6e85-4434-8036-ebf881a476fb\",\"m_Name\":\"Namespace Import\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":285.80859375,\"y\":545.173583984375,\"width\":153.0,\"height\":106.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeNamespaceImport, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1403906387,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1403906387,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_ImportName\":\"System\"}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Nodes.Statements.SnippetStatmentNode"
+            },
+            "JSONnodeData": "{\"m_GuidSerialized\":\"261f6510-4779-4def-b4f2-91376e54af7b\",\"m_Name\":\"SnippetStatmentNode\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-700.0543212890625,\"y\":796.4810180664063,\"width\":187.0,\"height\":119.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeSnippetStatement, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_Snippet\":\"var time = DateTime.Now;\\nDebug.Log(\\\"The Time is: \\\" + time );\"}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Nodes.SnippetMemberNode"
+            },
+            "JSONnodeData": "{\"m_GuidSerialized\":\"a1d0c4e8-757b-4162-a347-a10e42fe3171\",\"m_Name\":\"SnippetMemberNode\",\"m_DrawState\":{\"m_Expanded\":true,\"m_Position\":{\"serializedVersion\":\"2\",\"x\":-380.0543212890625,\"y\":62.521026611328128,\"width\":174.0,\"height\":148.0}},\"m_SerializableSlots\":[{\"typeInfo\":{\"fullName\":\"Assets.Editor.Scripts.Slots.GetterSlot`1[[System.CodeDom.CodeSnippetTypeMember, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]\"},\"index\":-1985799538,\"JSONnodeData\":\"{\\n    \\\"m_Id\\\": -1985799538,\\n    \\\"m_SlotType\\\": 1,\\n    \\\"m_Hidden\\\": false\\n}\"}],\"m_PreviewExpanded\":true,\"m_MemberName\":\"float floatField;\",\"m_Accecability\":20480,\"m_Static\":false,\"m_Snippet\":\"\"}"
         }
     ],
     "m_SerializableEdges": [
@@ -136,97 +148,7 @@
             "typeInfo": {
                 "fullName": "NodeEditor.Edge"
             },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"5fcfb8b7-94ec-4094-8b65-901ea17e7b42\"},\"m_InputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"b298c9cd-8fe2-4705-89d1-6237eb23f304\"},\"m_InputSlot\":{\"m_SlotId\":-1929952168,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"87b42720-9e04-40b3-a5d9-9d03a0fbe81d\"},\"m_InputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"e79502e8-ab0f-45d2-9a1e-d788e24b14be\"},\"m_InputSlot\":{\"m_SlotId\":-1929952168,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"},\"m_InputSlot\":{\"m_SlotId\":-288964304,\"m_NodeGUIDSerialized\":\"a1f0cb57-a4e6-44a4-bfc9-c8c611ab772d\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"f7b1525b-77f2-40c0-af58-ccfcc555d09c\"},\"m_InputSlot\":{\"m_SlotId\":2126705824,\"m_NodeGUIDSerialized\":\"5cdc6b4b-9e7f-47f5-9360-e181d463b461\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"5cdc6b4b-9e7f-47f5-9360-e181d463b461\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
             "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"f32625e9-f0b1-42f7-9c13-c5b224895754\"},\"m_InputSlot\":{\"m_SlotId\":327940020,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"d2e35ce9-481d-4c32-9b58-18f5265db754\"},\"m_InputSlot\":{\"m_SlotId\":877801146,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"a1f0cb57-a4e6-44a4-bfc9-c8c611ab772d\"},\"m_InputSlot\":{\"m_SlotId\":257555148,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\"},\"m_InputSlot\":{\"m_SlotId\":257555148,\"m_NodeGUIDSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"},\"m_InputSlot\":{\"m_SlotId\":-288964304,\"m_NodeGUIDSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":452620487,\"m_NodeGUIDSerialized\":\"8e6c302e-9d56-41aa-a3c8-5bbb734eff10\"},\"m_InputSlot\":{\"m_SlotId\":1946037116,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
-        },
-        {
-            "typeInfo": {
-                "fullName": "NodeEditor.Edge"
-            },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"},\"m_InputSlot\":{\"m_SlotId\":1608711759,\"m_NodeGUIDSerialized\":\"9b212ea7-3c46-4f9c-9876-23370fa08703\"}}"
         },
         {
             "typeInfo": {
@@ -238,7 +160,19 @@
             "typeInfo": {
                 "fullName": "NodeEditor.Edge"
             },
-            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"82222e0e-e495-444c-8d1a-a06d5f720db1\"},\"m_InputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"d2e35ce9-481d-4c32-9b58-18f5265db754\"}}"
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"},\"m_InputSlot\":{\"m_SlotId\":1608711759,\"m_NodeGUIDSerialized\":\"9b212ea7-3c46-4f9c-9876-23370fa08703\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"5cdc6b4b-9e7f-47f5-9360-e181d463b461\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"f7b1525b-77f2-40c0-af58-ccfcc555d09c\"},\"m_InputSlot\":{\"m_SlotId\":2126705824,\"m_NodeGUIDSerialized\":\"5cdc6b4b-9e7f-47f5-9360-e181d463b461\"}}"
         },
         {
             "typeInfo": {
@@ -250,7 +184,97 @@
             "typeInfo": {
                 "fullName": "NodeEditor.Edge"
             },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"82222e0e-e495-444c-8d1a-a06d5f720db1\"},\"m_InputSlot\":{\"m_SlotId\":1421151742,\"m_NodeGUIDSerialized\":\"d2e35ce9-481d-4c32-9b58-18f5265db754\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":452620487,\"m_NodeGUIDSerialized\":\"8e6c302e-9d56-41aa-a3c8-5bbb734eff10\"},\"m_InputSlot\":{\"m_SlotId\":1946037116,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"d2e35ce9-481d-4c32-9b58-18f5265db754\"},\"m_InputSlot\":{\"m_SlotId\":877801146,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
             "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1403906387,\"m_NodeGUIDSerialized\":\"e5a4a8ce-6e85-4434-8036-ebf881a476fb\"},\"m_InputSlot\":{\"m_SlotId\":490533084,\"m_NodeGUIDSerialized\":\"9b212ea7-3c46-4f9c-9876-23370fa08703\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"87b42720-9e04-40b3-a5d9-9d03a0fbe81d\"},\"m_InputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"a1f0cb57-a4e6-44a4-bfc9-c8c611ab772d\"},\"m_InputSlot\":{\"m_SlotId\":257555148,\"m_NodeGUIDSerialized\":\"31804373-bbf5-40b1-b53d-f1a8b1c2c378\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"},\"m_InputSlot\":{\"m_SlotId\":-288964304,\"m_NodeGUIDSerialized\":\"a1f0cb57-a4e6-44a4-bfc9-c8c611ab772d\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"e79502e8-ab0f-45d2-9a1e-d788e24b14be\"},\"m_InputSlot\":{\"m_SlotId\":-1929952168,\"m_NodeGUIDSerialized\":\"72dd2a61-9ad4-410e-9248-b0d23e3cdd9d\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\"},\"m_InputSlot\":{\"m_SlotId\":257555148,\"m_NodeGUIDSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"5fcfb8b7-94ec-4094-8b65-901ea17e7b42\"},\"m_InputSlot\":{\"m_SlotId\":165463247,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"},\"m_InputSlot\":{\"m_SlotId\":-288964304,\"m_NodeGUIDSerialized\":\"c91df974-a7f5-410f-bebc-1b3f4a8f000a\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"b298c9cd-8fe2-4705-89d1-6237eb23f304\"},\"m_InputSlot\":{\"m_SlotId\":-1929952168,\"m_NodeGUIDSerialized\":\"2454cf6a-ccf6-47bb-b5cf-854b12737818\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"261f6510-4779-4def-b4f2-91376e54af7b\"},\"m_InputSlot\":{\"m_SlotId\":257555148,\"m_NodeGUIDSerialized\":\"33fd1433-7d58-4ce5-994f-75fcb5f8be61\"}}"
+        },
+        {
+            "typeInfo": {
+                "fullName": "NodeEditor.Edge"
+            },
+            "JSONnodeData": "{\"m_OutputSlot\":{\"m_SlotId\":-1985799538,\"m_NodeGUIDSerialized\":\"a1d0c4e8-757b-4162-a347-a10e42fe3171\"},\"m_InputSlot\":{\"m_SlotId\":1098454307,\"m_NodeGUIDSerialized\":\"5ff0df3f-8d7d-40a6-a7a5-256c5f66050b\"}}"
         }
     ],
     "m_Path": ""

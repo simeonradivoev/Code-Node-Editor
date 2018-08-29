@@ -334,6 +334,21 @@ namespace NodeEditor
 			m_RemovedEdges.Add(e);
 		}
 
+		public void SortEdges()
+		{
+			List<KeyValuePair<IEdge, float>> position = ListPool<KeyValuePair<IEdge, float>>.Get();
+
+			foreach (var keyValue in m_NodeEdges)
+			{
+				position.Clear();
+				position.AddRange(keyValue.Value.Select(e => new KeyValuePair<IEdge, float>(e, GetNodeFromGuid(e.outputSlot.nodeGuid).drawState.position.y)));
+				position.Sort((lhs,rhs) => lhs.Value.CompareTo(rhs.Value));
+				keyValue.Value.Clear();
+				keyValue.Value.AddRange(position.Select(e => e.Key));
+			}
+			ListPool<KeyValuePair<IEdge, float>>.Release(position);
+		}
+
 		public INode GetNodeFromGuid(Guid guid)
 		{
 			INode node;

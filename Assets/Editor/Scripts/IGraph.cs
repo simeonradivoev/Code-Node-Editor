@@ -28,6 +28,7 @@ namespace NodeEditor
 		IEnumerable<INode> removedNodes { get; }
 		IEnumerable<IEdge> addedEdges { get; }
 		IEnumerable<IEdge> removedEdges { get; }
+		void SortEdges();
 		void ClearChanges();
 	}
 
